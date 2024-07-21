@@ -1,7 +1,12 @@
 {
     "localhost": {
-        "C2M-TOKEN": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
-        "FarmingC2M": "0x9fE46736679d2D9a65F0992F2272dE9f3c7fa6e0",
-        "Airdrop-C2M": "0x0165878A594ca255338adfa4d48449f69242Eb8F"
+        "C2M-TOKEN": "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+        "FarmingC2M": "0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512",
+        "Airdrop-C2M": "0x5FC8d32690cc91D4c39d9d3abcBD16989F875707"
+    },
+    "sepolia_infura": {
+        "C2M-TOKEN": "0xDE3698B220e84ac02Db4F9b4705D39249e742c8B",
+        "FarmingC2M": "0x9a45993Fcb23681a6eC7e326b573db15d05535ec",
+        "Airdrop-C2M": "0x94f795FCD95957C1840002f3100d2cF22cF0d05c"
     }
 }
